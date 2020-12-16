@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d024e355-41d0-4764-ab70-0bb3bc93f73e" name="Default Changelist" comment="" />
+    <list default="true" id="d024e355-41d0-4764-ab70-0bb3bc93f73e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GamePaperScissorsRock_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GamePaperScissorsRock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/GamePaperScissorsRock_jar/GamePaperScissorsRock.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PresenterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Authentication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Presenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/PresenterTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ljYDunqY4vZjPqzSX37BlsPsHH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -117,11 +143,22 @@
       <option name="presentableId" value="Default" />
       <updated>1608111850094</updated>
       <workItem from="1608111851670" duration="803000" />
-      <workItem from="1608112950718" duration="8965000" />
+      <workItem from="1608112950718" duration="9432000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
