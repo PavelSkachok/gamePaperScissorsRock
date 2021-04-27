@@ -1,7 +1,8 @@
 # gamePaperScissorsRock
 Представлена консольная игра "Бумага, ножницы, камень", написанная на языке Java.
 ## Запуск игры
-Для запуска игры необходимо перейти в папку с файлом gamePaperScissorsRock.jar и в консоли ввести следующую строку с указанием допустимых ходов
+Для запуска игры необходимо перейти в папку с файлом gamePaperScissorsRock.jar (gamePaperScissorsRock/out/artifacts/GamePaperScissorsRock_jar/
+) и в консоли ввести следующую строку с указанием допустимых ходов
 ```bash
 java -jar gamePaperScissorsRock.jar paper scissors rock rabbit wolf
 ```
